@@ -14,6 +14,8 @@ The conditions for the problem as demonstrated here are
     1. If none of the types from `org.example.test` are resolving, open `depender/pom.xml`, tweak
        any property (e.g. the artifactId of dependency to `dependee`), load maven changes
 
+![example demonstrating the issue](img/example.png)
+
 ### Issue Raised
 
 YouTrack: TBC
