@@ -18,4 +18,4 @@ The conditions for the problem as demonstrated here are
 
 ### Issue Raised
 
-YouTrack: TBC
+[YouTrack](https://youtrack.jetbrains.com/issue/IDEA-339385/Unresolved-type-for-class-with-dollar-sign-in-jar-dependency)
